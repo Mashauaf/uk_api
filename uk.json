@@ -1,0 +1,362 @@
+ [
+    {
+      "id": 1,
+      "universityName": "Chevening Scholarship",
+      "scholarshipDeadline": "1-Mar-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 2,
+      "universityName": "Imperial College London",
+      "scholarshipDeadline": "24-May-24",
+      "scholarshipDepartment": "Chemical Engineering",
+      "scholarshipLevel": "Chemical Engineering",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 3,
+      "universityName": "University of Nottingham",
+      "scholarshipDeadline": "12-Mar-24",
+      "scholarshipDepartment": "Faculty of Engineering",
+      "scholarshipLevel": "Faculty of Engineering",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 4,
+      "universityName": "University of Leeds",
+      "scholarshipDeadline": "31-Jan-24",
+      "scholarshipDepartment": "Business School",
+      "scholarshipLevel": "Business School",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 5,
+      "universityName": "University of Cambridge",
+      "scholarshipDeadline": "1-Feb-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 6,
+      "universityName": "University of Surrey",
+      "scholarshipDeadline": "20-Jan-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 7,
+      "universityName": "Aston University",
+      "scholarshipDeadline": "24-May-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 8,
+      "universityName": "University of Warwick",
+      "scholarshipDeadline": "30-Apr-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 9,
+      "universityName": "Falmouth University",
+      "scholarshipDeadline": "31-May-24",
+      "scholarshipDepartment": "Cornwall Business School",
+      "scholarshipLevel": "Cornwall Business School",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 10,
+      "universityName": "Durham University",
+      "scholarshipDeadline": "24-Jan-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 11,
+      "universityName": "Consortium of six leading European Universities",
+      "scholarshipDeadline": "9-Jan-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "Europe"
+    },
+    {
+      "id": 12,
+      "universityName": "London School of Hygiene & Tropical Medicine (LSHTM)",
+      "scholarshipDeadline": "4-Mar-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 13,
+      "universityName": "University of Sussex",
+      "scholarshipDeadline": "5-Jan-24",
+      "scholarshipDepartment": "School of Psychology",
+      "scholarshipLevel": "School of Psychology",
+      "scholarshipNationality": "UK and International students",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 14,
+      "universityName": "The University of West London",
+      "scholarshipDeadline": "22-Dec-23",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 15,
+      "universityName": "Saïd Business School",
+      "scholarshipDeadline": "5-Jan-24",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 16,
+      "universityName": "University of Sussex",
+      "scholarshipDeadline": "5-Jan-24",
+      "scholarshipDepartment": "School of Psychology",
+      "scholarshipLevel": "School of Psychology",
+      "scholarshipNationality": "UK and International students",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 17,
+      "universityName": "The University of West London",
+      "scholarshipDeadline": "11-Dec-23",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 18,
+      "universityName": "University of Surrey",
+      "scholarshipDeadline": "13-Dec-23",
+      "scholarshipDepartment": "NA",
+      "scholarshipLevel": "NA",
+      "scholarshipNationality": "UK and international students",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 19,
+      "universityName": "University of Leeds",
+      "scholarshipDeadline": "31-Jan-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 20,
+      "universityName": "Brunel University London",
+      "scholarshipDeadline": "17-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 21,
+      "universityName": "University of Warwick",
+      "scholarshipDeadline": "30-Apr-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 22,
+      "universityName": "Falmouth University",
+      "scholarshipDeadline": "31-May-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 23,
+      "universityName": "University of Southarnpton",
+      "scholarshipDeadline": "31-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 24,
+      "universityName": "University of Greenwich",
+      "scholarshipDeadline": "24-Nov-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 25,
+      "universityName": "University of Chichester",
+      "scholarshipDeadline": "28-Jun-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 26,
+      "universityName": "University of York",
+      "scholarshipDeadline": "31-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 27,
+      "universityName": "Commonwealth Spilt",
+      "scholarshipDeadline": "5-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 28,
+      "universityName": "University of Leeds",
+      "scholarshipDeadline": "31-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 29,
+      "universityName": "Universtiy f Sussex",
+      "scholarshipDeadline": "30-Nov-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 30,
+      "universityName": "University of Cambridge",
+      "scholarshipDeadline": "5-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 31,
+      "universityName": "University of Oxford",
+      "scholarshipDeadline": "5-Jan-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 32,
+      "universityName": "University of Warwick",
+      "scholarshipDeadline": "12-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 33,
+      "universityName": "University of Buckingham",
+      "scholarshipDeadline": "31-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 34,
+      "universityName": "Engineering and Physical Science Research Council(epsrc)",
+      "scholarshipDeadline": "31-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 35,
+      "universityName": "Durham University",
+      "scholarshipDeadline": "31-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 36,
+      "universityName": "University of Cambridge",
+      "scholarshipDeadline": "30-Nov-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 37,
+      "universityName": "University of Oxford",
+      "scholarshipDeadline": "5-Jan-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 38,
+      "universityName": "University of Leeds",
+      "scholarshipDeadline": "7-Jun-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 39,
+      "universityName": "University of Hull",
+      "scholarshipDeadline": "10-Dec-23",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    },
+    {
+      "id": 40,
+      "universityName": "University of Bradford",
+      "scholarshipDeadline": "30-Jan-24",
+      "scholarshipDepartment": "N.A",
+      "scholarshipLevel": "N.A",
+      "scholarshipNationality": "International",
+      "scholarshipCountry": "UK"
+    }
+  ]
